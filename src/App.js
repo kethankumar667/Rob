@@ -2,7 +2,6 @@ import React, { Component, useState, useEffect } from "react";
 import "./App.css";
 import CardList from "./CardList";
 import SearchBox from "./SearchBox";
-import { Robots } from "./Robots";
 import Scroll from "./Scroll";
 
 // class App extends Component {
